@@ -1,4 +1,4 @@
-# library-rest-api
+# rest-with-bdd
 ### My fake library into rest webservice ;)
 
 This is a simple application for apply my knowledge in:
