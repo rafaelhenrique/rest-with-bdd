@@ -5,7 +5,6 @@ This is a simple application for apply my knowledge in:
 
 - REST
 - Flask
-- MongoDB (not implemented yet!)
 - BDD with Python (behave)
 
 # Thanks for:
